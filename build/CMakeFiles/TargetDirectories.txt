@@ -1,0 +1,3 @@
+/home/asd/Documents/fuzzing/Wonderer/build/CMakeFiles/Wonderer.dir
+/home/asd/Documents/fuzzing/Wonderer/build/CMakeFiles/edit_cache.dir
+/home/asd/Documents/fuzzing/Wonderer/build/CMakeFiles/rebuild_cache.dir

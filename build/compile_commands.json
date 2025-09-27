@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/asd/Documents/fuzzing/Wonderer/build",
+  "command": "/usr/bin/cc -DLINUX -DWonderer_EXPORTS -DX86_64 -I/home/asd/Documents/fuzzing/Wonderer/libs/DynamoRIO-Linux-11.3.0/DynamoRIO-Linux-11.3.0-1/cmake/../include -I/home/asd/Documents/fuzzing/Wonderer/libs/DynamoRIO-Linux-11.3.0/DynamoRIO-Linux-11.3.0-1/cmake/../ext/include -fPIC -g -fno-stack-protector -o CMakeFiles/Wonderer.dir/main.c.o -c /home/asd/Documents/fuzzing/Wonderer/main.c",
+  "file": "/home/asd/Documents/fuzzing/Wonderer/main.c",
+  "output": "CMakeFiles/Wonderer.dir/main.c.o"
+}
+]
